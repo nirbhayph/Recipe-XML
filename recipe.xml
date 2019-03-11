@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="recipe.xslt"?>
+<!DOCTYPE recipes SYSTEM "recipe.dtd">
+<recipes>
+	<recipe>
+		<name>Chicken Linguine with Broccoli</name>
+		<source>Dan Eaton</source>
+		<photo>photos/chicken_linguine.jpg</photo>
+		<serves>4-6</serves>
+		<ingredients>
+			<ingredient amount="1" measurement="pound(s)">
+          Linguine
+        </ingredient>
+			<ingredient amount="2" measurement="tbs">
+          Minced Garlic
+        </ingredient>
+			<ingredient amount="1/2" measurement="cup(s)">
+          Chopped Fresh Parsley
+        </ingredient>
+			<ingredient amount="4" measurement="cup(s)">
+          Small Broccoli Florets (see hints)
+        </ingredient>
+			<ingredient amount="1-1/2" measurement="pound(s)">
+          Boneless, Skinless Chicken Breast Meat, cut into 1/2-inch cubes
+        </ingredient>
+			<ingredient>
+          Salt and pepper for seasoning chicken
+        </ingredient>
+			<ingredient>
+          All-purpose flour for lightly dusting cubed, seasoned chicken
+        </ingredient>
+			<ingredient>
+          Olive oil as needed for sautéing chicken
+        </ingredient>
+			<ingredient amount="3 or a little more" measurement="cup(s)">
+          Chicken stock
+        </ingredient>
+			<ingredient>
+          Red pepper flakes to taste
+        </ingredient>
+			<ingredient>
+          Grated parmesan cheese for garnish
+        </ingredient>
+		</ingredients>
+		<preparation>
+			<step>
+          Get a large pot of salted water going on the stove top for cooking the linguine and, while that is
+coming up to a boil, finely mince 2 Tbs garlic, chop about 1/2 cup fresh parsley and cut 4 cups
+
+broccoli into small florets and then, lastly, cut the boneless, skinless chicken breast meat into
+1/2-inch cubes.
+        </step>
+			<step>
+          Season the cubed chicken with salt and pepper and give it a light dusting of all-purpose flour and
+then cook it in batches in a deep, heavy bottomed pot in a little olive oil on medium to medium
+high heat.
+        </step>
+			<step>
+          Once the water comes to a boil, add the linguine and stir that around to keep it from sticking.
+        </step>
+			<step>
+          Once all of the chicken is lightly browned, and out of the pan and resting on a clean plate, add 3
+Tbs butter to the chicken pot, let that melt down. Add the minced garlic and cook that for a
+minute or so and then add about 3 cups chicken stock and bring it up to a simmer.
+        </step>
+			<step>
+          Once the stock does come to a simmer, add the broccoli florets and add the chicken back to the
+pan.
+        </step>
+			<step>
+          Keep your eye on the linguine and drain that when it's done and, once the broccoli and chicken
+are cooked through, add the drained, still hot linguine to that pot, add a little more olive oil, the
+chopped parsley, add salt and red pepper flakes to taste and toss to coat.
+        </step>
+			<step>
+          Serve in individual bowls with grated parmesan cheese.
+        </step>
+		</preparation>
+		<hints>
+			<hint>
+            You can make this without the broccoli if you like….but hey, broccoli is a super food!
+          </hint>
+		</hints>
+	</recipe>
+	<recipe>
+		<name>Italian Sausage, Zucchini and Rice Soup</name>
+		<source>Dan Eaton</source>
+		<photo>photos/italian_soup.png</photo>
+		<serves>6</serves>
+		<ingredients>
+			<ingredient amount="4" measurement="cup(s)">
+          Chicken or vegetable stock
+        </ingredient>
+			<ingredient amount="1" measurement="cup(s)">
+          Water
+        </ingredient>
+			<ingredient amount="1/2" measurement="cup(s)">
+          Medium grain white rice (uncooked)
+        </ingredient>
+			<ingredient amount="2" measurement="unit(s)">
+          Italian sausage patties (or 2 links) crumbled
+        </ingredient>
+			<ingredient amount="3/4-1" measurement="cup(s)">
+          Diced onion
+        </ingredient>
+			<ingredient amount="2" measurement="unit(s)">
+          Medium zucchini, deseeded and cubed (see hints)
+        </ingredient>
+			<ingredient>
+          Olive oil for cooking veggies and sausage
+        </ingredient>
+			<ingredient amount="1" measurement="cup(s)">
+          Canned diced tomatoes
+        </ingredient>
+			<ingredient>
+          Salt and pepper to taste
+        </ingredient>
+			<ingredient optional="yes">
+          Grated parmesan cheese for garnish
+        </ingredient>
+			<ingredient optional="yes">
+          Dollop of basil pesto for garnish
+        </ingredient>
+		</ingredients>
+		<preparation>
+			<step>
+          Add 4 cups of chicken or vegetable stock and 1 cup of water to a deep, heavy bottomed pot, add
+1/2 cup medium grain white rice, bring that up to a simmer and let it cook along without a lid on
+top.
+        </step>
+			<step>
+          Once the rice is in the pot, add a splash of olive oil to a large, heavy bottomed soup pot, and cook
+the crumbled Italian sausage to brown that up.
+        </step>
+			<step>
+          Then take the sausage out of the pot and add about 3/4 cup of diced onion and 2 medium size,
+deseeded and diced zucchini and cook those to soften.
+        </step>
+			<step>
+          Add a little more olive oil to the vegetables if they need it and keep your eye on the rice, you
+want it to be just soft to the tooth, itll take about 15 minutes to cook.
+        </step>
+			<step>
+          After a few minutes, when the zucchini is tender crisp, add 1 cup diced canned tomato, add the
+sausage back to the pot. Then very carefully add the stock and rice and let it simmer along for a
+few minutes, season to taste and it is good to go.
+        </step>
+			<step>
+          Serve it up with a sprinkling of grated parmesan cheese and an optional dollop of basil pesto.
+        </step>
+		</preparation>
+		<hints>
+			<hint>
+            Plan on eating this right away, otherwise the rice will continue to absorb the liquid. Add more
+stock or water if you need to.
+          </hint>
+			<hint>
+            Cut the ends off of the zucchini, cut then into quarters lengthwise, carefully slice off the seed
+section and continue to cut the quarters into 1/2 cubes.
+          </hint>
+			<hint>
+            Start the sausage at the same time (or before) you get the rice going to make sure the rice isn't
+done before the rest.
+          </hint>
+			<hint>
+            Buy basil pesto premade or make your own by pureeing a good handful of basil leaves with a
+few walnuts or pinenuts, a small clove of garlic, a bit of grated parmesan cheese and just enough
+olive oil to give it a pesto consistency.
+          </hint>
+		</hints>
+	</recipe>
+	<recipe>
+		<name>Rasmalai</name>
+		<source>My Kashmir (http://mykashmir.in)</source>
+		<photo>photos/rasmalai.png</photo>
+		<serves>10</serves>
+		<ingredients>
+			<ingredient amount="32" measurement="oz">
+          Ricotta cheese(or an equivalent amount of freshly made Paneer)
+        </ingredient>
+			<ingredient amount="10" measurement="oz">
+          Powdered Confectioner's sugar
+        </ingredient>
+			<ingredient amount="2">
+          Small packets Half and Half
+        </ingredient>
+			<ingredient amount="1" measurement="tsp">
+          Powdered cardamom
+        </ingredient>
+			<ingredient amount="1/2" measurement="tsp">
+          Rose water
+        </ingredient>
+			<ingredient amount="2" measurement="tsp">
+          Slivered almonds
+        </ingredient>
+			<ingredient amount="2" measurement="tsp">
+          Chopped pistachios
+        </ingredient>
+			<ingredient amount="6" measurement="cup(s)">
+          Water
+        </ingredient>
+			<ingredient amount="3" measurement="cup(s)">
+          Sugar
+        </ingredient>
+		</ingredients>
+		<preparation>
+			<step>
+          If you are using the Ricotta cheese, mix together the confectioner's sugar and cheese.
+        </step>
+			<step>
+          Spread on a baking dish and bake in a moderate
+ oven for about 1 1/2 hrs till the cheese turns
+ light brown and loses all moisture.
+        </step>
+			<step>
+          Take it out and let it cool.
+        </step>
+			<step>
+          When cool, shape into small flat balls
+        </step>
+			<step>
+          If you are using paneer, mix the paneer and sugar and
+shape it into flat balls.
+        </step>
+			<step>
+          Bring the water and sugar to a boil to
+ yield sugar syrup.The syrup should not be too
+ thick.
+        </step>
+			<step>
+          Insert the balls one by one in the syrup and
+ warm them up. They should become spongy.
+        </step>
+			<step>
+          In the meantime, boil the half and half with
+the rose water.
+        </step>
+			<step>
+          Set aside.
+        </step>
+			<step>
+          Add the cardamom and nuts to the half and half.
+        </step>
+			<step>
+          Mix well.
+        </step>
+			<step>
+          Add the cooked balls to the half and half.
+        </step>
+			<step>
+          Let it stay immersed for about 1 hr.
+ You can either chill it or serve it at room
+ temperature.
+        </step>
+		</preparation>
+	</recipe>
+</recipes>

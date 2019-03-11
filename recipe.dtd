@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <!-- recipes is the root element, it can contain one or more recipe elements -->
+   <!ELEMENT recipes (recipe+)>
+   <!-- recipe contains all details about a particular recipe (hints is optional here!) -->
+   <!ELEMENT recipe (name, source, photo, serves, ingredients, preparation, hints?)>
+   <!-- recipe name-->
+   <!ELEMENT name (#PCDATA)>
+   <!-- recipe creator/publisher -->
+	 <!ELEMENT source (#PCDATA)>
+   <!-- path to recipe image -->
+	 <!ELEMENT photo (#PCDATA)>
+   <!-- recipe number of servings -->
+	 <!ELEMENT serves (#PCDATA)>
+   <!-- recipe ingredients, it must contain 1 or more ingriedient elements -->
+	 <!ELEMENT ingredients (ingredient+)>
+   <!-- recipe ingredient-->
+   <!ELEMENT ingredient (#PCDATA)>
+   <!-- recipe ingredient attribute amount, it is optional -->
+   <!ATTLIST ingredient amount CDATA #IMPLIED>
+   <!-- recipe ingredient attribute measurement, it is optional -->
+   <!ATTLIST ingredient measurement CDATA #IMPLIED>
+   <!-- recipe ingredient attribute optional, specifies whether
+   the ingriedient is optional or not, it is an optional attribute, takes yes or no values -->
+   <!ATTLIST ingredient optional ( yes | no ) #IMPLIED>
+   <!-- recipe preparation element; it contains one or more step elements -->
+	 <!ELEMENT preparation (step+)>
+   <!-- step element; contains preparation step description  -->
+	 <!ELEMENT step (#PCDATA)>
+   <!-- although hints is an optional element, but if specified it must contain at least one hint tag  -->
+	 <!ELEMENT hints (hint+)>
+   <!-- hint element -->
+	 <!ELEMENT hint (#PCDATA)>

@@ -1,0 +1,87 @@
+header{
+  font-size: 18px;
+  font-family: arial;
+  max-width:600px;
+  text-align: center;
+  margin:auto;
+  color: #C32026;
+  background-color: #333;
+  border: 3px SOLID #C32026;
+  border-radius: 8px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  padding:5px;
+}
+a{
+  color:#C32026;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7);
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color:#4e0c0f;
+  color:  #E7A5A8;
+  border-radius: 15px 50px;
+}
+
+.serves {
+  color: grey;
+  font-size: 22px;
+  font-weight:bold;
+}
+
+.card .heading {
+  border: none;
+  outline: 0;
+  padding: 3%;
+  color: white;
+  background-color: #C32026;
+  text-align: center;
+  width: 94%;
+  font-size: 18px;
+}
+
+.card .servings {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #3a090b;
+  text-align: center;
+  cursor: pointer;
+  width: 95%;
+  font-size: 18px;
+}
+
+table {
+border-collapse: collapse;
+width: 100%;
+}
+
+th, td {
+text-align: left;
+padding: 8px;
+}
+
+tr:nth-child(even){background-color: #3a090b}
+
+th {
+background-color: #C32026;
+color: white;
+}
+.hint{
+color:#ab8688;
+text-align:center;
+}
+.optional{
+color:#fff;
+background-color:#4CAF50;
+padding:3px;
+border:2px Solid #4CAF50;
+border-radius:5px;
+text-align:center;
+font-size:15px;
+max-width:40%;
+}
